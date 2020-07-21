@@ -135,4 +135,4 @@ static showActionSheetWithOptions(options, callback);
 
 ## Instructions
 
-该项目 fork 于`Yoann Fuks (yfuks)` `react-native-action-sheet` 后续更新将提交给 yfuks
+该项目 fork 于`Yoann Fuks (yfuks)`  [`react-native-action-sheet`](https://github.com/yfuks/react-native-action-sheet) 后续更新将提交给 `yfuks`
