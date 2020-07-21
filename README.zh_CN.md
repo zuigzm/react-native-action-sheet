@@ -27,7 +27,7 @@ npm install @scrawllife/react-native-action-sheet --save // or yarn add react-na
 
 ## React Native > 0.60
 
-> ReactNative 大于 0.60 将自动使用 autolink，无需[手动配置](#)
+> ReactNative 大于 0.60 将自动使用 autolink，无需[手动配置](#Manual Configuration)
 
 ## React Native < 0.47
 
