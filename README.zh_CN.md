@@ -132,3 +132,7 @@ static showActionSheetWithOptions(options, callback);
 | title                  | OK  | OK      | (string) - a title to show above the action sheet               |
 | message                | OK  | -       | (string) - a message to show below the title                    |
 | tintColor              | OK  | -       | (string) - a color to set to the text (defined by processColor) |
+
+## Instructions
+
+该项目 fork 于`Yoann Fuks (yfuks)` `react-native-action-sheet` 后续更新将提交给 yfuks
