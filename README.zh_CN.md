@@ -22,7 +22,7 @@
 ## <span id="install">安装</span>
 
 ```bash
-npm install react-native-action-sheet --save // or yarn add react-native-action-sheet
+npm install @scrawllife/react-native-action-sheet --save // or yarn add react-native-action-sheet
 ```
 
 ## React Native > 0.60
@@ -31,9 +31,9 @@ npm install react-native-action-sheet --save // or yarn add react-native-action-
 
 ## React Native < 0.47
 
-```
-npm install @yfuks/react-native-action-sheet@0.0.3 --save
-react-native link @yfuks/react-native-action-sheet`
+```bash
+npm install @scrawllife/react-native-action-sheet@0.0.3 --save
+react-native link @scrawllife/react-native-action-sheet`
 ```
 
 ## <span id="Manual Configuration">手动配置</span>

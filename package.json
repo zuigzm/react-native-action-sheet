@@ -1,5 +1,5 @@
 {
-  "name": "@scrwallife/react-native-action-sheet",
+  "name": "@scrawllife/react-native-action-sheet",
   "description": "React native action sheet with native android",
   "version": "2.2.1",
   "main": "index.js",

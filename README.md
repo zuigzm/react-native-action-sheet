@@ -19,13 +19,15 @@ This module simply return the [ActionSheetIOS](https://facebook.github.io/react-
 
 ## Install
 
-`npm install react-native-action-sheet@latest --save`
-`react-native link react-native-action-sheet`
+```bash
+npm install @scrawllife/react-native-action-sheet --save // or yarn add react-native-action-sheet
+```
 
 ## if react native < 0.47
-
-`npm install @yfuks/react-native-action-sheet@0.0.3 --save`
-`react-native link @yfuks/react-native-action-sheet`
+```bash
+npm install @scrawllife/react-native-action-sheet@0.0.3 --save
+react-native link @scrawllife/react-native-action-sheet`
+```
 
 ### Android
 
