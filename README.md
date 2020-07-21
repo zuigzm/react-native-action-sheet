@@ -124,4 +124,4 @@ static showActionSheetWithOptions(options, callback);
 
 ## Instructions
 
-Subsequent updates of fork's 'Yoann Fuks (yfuks)' 'react-native-action-sheet' will be submitted to yfuks
+Subsequent updates of fork's `Yoann Fuks (yfuks)` [`react-native-action-sheet`](https://github.com/yfuks/react-native-action-sheet) will be submitted to `yfuks`
